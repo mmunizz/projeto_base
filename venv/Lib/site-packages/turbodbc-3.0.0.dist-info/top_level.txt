@@ -1,0 +1,3 @@
+turbodbc
+turbodbc_intern
+turbodbc_numpy_support
